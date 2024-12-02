@@ -1,0 +1,6 @@
+java script is a programming language as well as scripting language to provide functionality.
+the engine is struct inside the chrome thats why we are using java script.the engine is part of
+chrome.
+npm is node package manager is used to keep all the packages which are required for node js.
+*Data Types
+ number,boolean,string,null,undefined,
